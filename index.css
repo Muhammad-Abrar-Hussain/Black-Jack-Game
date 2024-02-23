@@ -1,0 +1,26 @@
+body{
+    background: url("Background.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+}
+#lose-el{
+    color: red;
+}
+button {
+    color: #016f32;
+    background: goldenrod;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+}
