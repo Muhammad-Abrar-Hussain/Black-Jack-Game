@@ -1,2 +1,2 @@
 # Black-Jack-Game
-Black jack built by the use of Javascript , html and css. Let play game to enjoy
+Blackjack was built using Javascript, HTML, and CSS. Let's play a game to enjoy...
